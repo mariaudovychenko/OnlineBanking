@@ -3,9 +3,9 @@
 Trial dates : 
 
 Account 1: 
-login: js
+user: js
 pin: 1111;
 
 Account 2: 
-login: jd
+user: jd
 pin: 2222
